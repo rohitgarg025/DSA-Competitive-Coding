@@ -1,4 +1,4 @@
-#incude <bits/stdc++.h>
+#include <bits/stdc++.h>
 //Question Link: https://practice.geeksforgeeks.org/problems/permutations-of-a-given-string2041/1
 
 using namespace std;
